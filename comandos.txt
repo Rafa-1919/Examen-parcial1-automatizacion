@@ -1,0 +1,6 @@
+
+   1. git init: Inicializa un nuevo repositorio local de Git en la carpeta actual.
+   2. git status: Muestra el estado actual del directorio de trabajo y del área de preparación (staging area).
+   3. git add: Agrega los archivos modificados o nuevos al área de preparación para el próximo commit.
+   4. git commit: Registra los cambios guardados en el área de preparación en el historial del repositorio con un mensaje     descriptivo.
+   5. git clone: Descarga una copia exacta de un repositorio remoto existente en la máquina local.
